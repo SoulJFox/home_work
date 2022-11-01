@@ -1,0 +1,90 @@
+   0  cd /
+   1 cd /opt
+   2 mkdir test/
+   3 cd /test
+   4 tree /opt
+   5 ls
+   6  ls/opt
+   7 mkdir /test/user/
+   8 mkdir /test/user
+   9 tree /opt
+  10 cd /opt/test
+  11 touch && file.txt
+  12  tree /opt
+  13 mkdir user
+  14 cd /user
+  15 ls
+  16 pwd
+  17 ls
+  18 cd /user
+  19 tree/test
+  20 tree /opt
+  21 touch && file.txt
+  22 cd /
+  23 cd /user
+  24 cd /opt 
+  25 cd /test
+  26 tree /opt
+  27 test
+  28 cd /temu
+  29 ls
+  30  cd /test
+  31 --help
+  32 cd test
+  33 cd user
+  34 touch && file.txt
+  35 touch file.txt
+  36 pwd
+  37 tree /user
+  38 tree /opt
+  39 ..
+  40 ls -l
+  41 cd /opt
+  42 mkdir test2 /user 2
+  43 tree /opt
+  44 cd /test2
+  45 cd test2
+  46 cd test
+  47  cd /opt
+  48 cd test
+  49 cd user
+  50 cp file.txt newfile.txt
+  51 ls
+  52 cp file.txt /opt /test2
+  53 cp file.txt test/
+  54 ls
+  55  cp file.txt /test
+  56 ls
+  57 tree /opt
+  58 cp file.txt /opt /test2
+  59 cp file.txt /test2
+  60 opt /tree
+  61 tree /opt
+  62 cd /opt
+  63 cd /test2
+  64 cd test2
+  65 tree /test2
+  66 ls
+  67 cd /opt
+  68 cd test /user /
+  69 cp file.txt /test2
+  70 cp file.txt /opt /test2
+  71 cp file.txt /opt /test2 
+  72 cp /opt /test /user /file.txt /opt /test2
+  73 tree /opt
+  74 cp file.txt test2/
+  75 cp file.txt opt/
+  76 cp /opt/test/user/file.txt /opt/test2
+  77 tree /opt
+  78 cd /opt/2
+  79 cd /opt
+  80 rm /opt/2
+  81 tree /opt
+  82 rm -Rf /opt/2
+  83 tree /opt
+  84 history
+  85 history > history.txt
+  86 ls
+  87 cd
+  88 history
+  89 history > history.txt
